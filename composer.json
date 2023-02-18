@@ -1,0 +1,29 @@
+{
+    "name": "pleshkovpa/toasts-livewire",
+    "homepage": "https://github.com/pleshkovpa/toasts-livewire",
+    "description": "Dynamic Bootstrap toasts for Laravel Livewire",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Paul Pleshkov",
+            "email": "pleshkovpa@yandex.ru",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^9.0",
+        "livewire/livewire": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Pleshkovpa\\ToastsLivewire\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Pleshkovpa\\ToastsLivewire\\Providers\\ToastsLivewireProvider"
+            ]
+        }
+    }
+}

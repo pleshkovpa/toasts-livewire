@@ -1,6 +1,10 @@
-# Laravel Livewire Toasts
+# Toasts for Laravel Livewire with Bootstrap 5 
 
 This package allows you to dynamically show Bootstrap toasts via Laravel Livewire components.
+
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/pleshkovpa/toasts-livewire.svg?style=flat-square)](https://packagist.org/packages/pleshkovpa/toasts-livewire)
+[![Total Downloads](https://img.shields.io/packagist/dt/pleshkovpa/toasts-livewire.svg?style=flat-square)](https://packagist.org/packages/pleshkovpa/toasts-livewire)
+[![License](https://img.shields.io/packagist/l/pleshkovpa/toasts-livewire.svg?style=flat-square)](https://packagist.org/packages/pleshkovpa/toasts-livewire)
 
 ## Documentation
 
